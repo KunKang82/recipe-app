@@ -3,10 +3,6 @@ from django.shortcuts import reverse
 
 # Create your models here.
 difficulty_choices = (
-  # ('easy', 'Easy'), 
-  # ('medium', 'Medium'), 
-  # ('intermediate', 'Intermediate'), 
-  # ('hard', 'Hard'),
   ('Easy', 'Easy'), 
   ('Medium', 'Medium'), 
   ('Intermediate', 'Intermediate'), 
